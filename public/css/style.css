@@ -1,0 +1,30 @@
+body {
+  background-color: #C0C0C0;
+}
+
+.exercise1-table, th, td {
+  border: 1px solid #000000;
+}
+
+.exercise1-table {
+  width: 100%;
+}
+.exercise1-table td {
+  text-align: center;
+}
+
+.red {
+  background-color: #DC143C;
+}
+
+.green {
+  background-color: #00FF00;
+}
+
+.blue {
+  background-color: #0000ff;
+}
+
+.white {
+  background-color: #FFFFFF;
+}
